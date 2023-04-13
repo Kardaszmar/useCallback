@@ -1,0 +1,27 @@
+* {
+    font-size: 22px;
+}
+
+.parent {
+    background-color: yellow;
+    width: 500px;
+    height: 600px;
+}
+
+
+.child1 {
+    background-color: orange;
+    width: 400px;
+    
+}
+
+.child2 {
+    background-color: lightblue;
+    width: 300px;
+  
+}
+
+.child3 {
+    background-color: greenyellow;
+    width: 200px;
+}
